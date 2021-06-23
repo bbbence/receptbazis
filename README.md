@@ -1,4 +1,4 @@
-# receptbazis
+# ReceptBázis
 
 ReceptBázis – User Storyk
 
