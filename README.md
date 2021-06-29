@@ -84,6 +84,14 @@ Elfogadási kritérium: a Főmenüben az ‘Értékelések’ menüpontot válas
 
 Elfogadási kritérium: a listában a recept címére kattintva megjelenik a receptre érkezett összes értékelés.
 
+19. Adminként szeretném tudni szerkeszteni a recepthez tartozó értékeléseket.
+
+Elfogadási kritérium: a recepteknél legyen lehetőség az adott értékelések szerkesztésére, megváltoztatására.
+
+20. Adminként szeretnék tudni értékeléseket törölni.
+
+Elfogadási kritérium: a receptek értékeléseinél legyen lehetőség egy-egy értékelés törlésére.
+
 _______________________________
 
 További információk:
