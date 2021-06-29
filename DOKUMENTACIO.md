@@ -4,7 +4,7 @@ Az alkalmazás feladata, hogy egy receptek megosztására, kommentelésére, és
 
 ## **2. Az alkalmazás telepítése**
 
-- A célgépre klónozza le a github.com/bbbence/receptbazis repository tartalmát
+- A célgépre klónozza le a https://github.com/bbbence/receptbazis repository tartalmát
 - Telepítse a függőségeket az `npm i` parancs segítségével
 - Amennyiben szükséges, telepítse az Angular keretrendszert az `npm i -g @angular/cli` paranccsal
 
